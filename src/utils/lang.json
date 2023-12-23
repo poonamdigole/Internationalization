@@ -1,0 +1,14 @@
+{
+    "en":{
+"title":"What Is Internationalization?",
+"defination":"Internationalization describes the process of designing products to meet the needs of users in many countries or designing them so they can be easily modified, to achieve this goal.Internationalization might mean designing a website so that when it's translated from English to Spanish, the aesthetic layout still works properly. This may be difficult to achieve because many words in Spanish have more characters than their English counterparts. They may thus take up more space on the page in Spanish than in English."
+    },
+    "hi":{
+"title":"अंतर्राष्ट्रीयकरण क्या है?",
+"defination":"अंतर्राष्ट्रीयकरण कई देशों में उपयोगकर्ताओं की जरूरतों को पूरा करने के लिए उत्पादों को डिजाइन करने या उन्हें डिजाइन करने की प्रक्रिया का वर्णन करता है ताकि इस लक्ष्य को प्राप्त करने के लिए उन्हें आसानी से संशोधित किया जा सके। अंतर्राष्ट्रीयकरण का मतलब एक वेबसाइट को डिज़ाइन करना हो सकता है ताकि जब इसका अंग्रेजी से स्पेनिश में अनुवाद किया जाए, तो सौंदर्य लेआउट अभी भी ठीक से काम कर सके। इसे हासिल करना मुश्किल हो सकता है क्योंकि स्पैनिश में कई शब्दों में उनके अंग्रेजी समकक्षों की तुलना में अधिक अक्षर हैं। इस प्रकार वे अंग्रेजी की तुलना में स्पेनिश में पृष्ठ पर अधिक स्थान ले सकते हैं।"
+    },
+    "mara":{
+"title":"आंतरराष्ट्रीयीकरण म्हणजे काय?",
+"defination":"आंतरराष्ट्रीयीकरण अनेक देशांतील वापरकर्त्यांच्या गरजा पूर्ण करण्यासाठी उत्पादने डिझाइन करण्याच्या प्रक्रियेचे वर्णन करते किंवा हे उद्दिष्ट साध्य करण्यासाठी ते सहजपणे सुधारित केले जाऊ शकतात.आंतरराष्‍ट्रीयीकरणाचा अर्थ वेबसाइट डिझाईन करण्‍याचा असू शकतो जेणेकरून ती इंग्रजीतून स्पॅनिशमध्‍ये भाषांतरित केल्‍यावर, सौंदर्याचा लेआउट अजूनही नीट कार्य करते. हे साध्य करणे कठीण असू शकते कारण स्पॅनिशमधील अनेक शब्दांना त्यांच्या इंग्रजी समकक्षांपेक्षा जास्त वर्ण आहेत.त्यामुळे ते इंग्रजीपेक्षा स्पॅनिशमध्ये पृष्ठावर अधिक जागा घेऊ शकतात."
+    }
+}
